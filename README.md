@@ -1,6 +1,6 @@
 # Creating-A-Books-Database
  
-This repository contains codes demonstrating how to create databases, insert data into databases, and access databases using SQL in Python.
+This repository contains codes demonstrating the creation of databases, inserting data into databases, and accessing databases using SQL in Python.
 
 File Description:
 1) Books_Database.sql - SQL codes that create the Books database and the corresponding tables: 'authors', 'books', 'favorites', and 'users'. This should be run first to create the database before uploading the data entries using Python (sqlalchemy).
